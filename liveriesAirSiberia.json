@@ -1,25 +1,18 @@
 {
     "name": "Air Siberia",
-    "color": "#0000FF",
-    "bgcolor": "#F0FFFF",
+    "color": "white",
+    "bgcolor": "blue",
 
     "aircrafts": {
         "4": {
             "name": "Boeing 737-700",
             "liveries": [
                 {
-                    "name": "Air Siberia 737-700 Livery" ,
+                    "name": "Boeing 737-700 Air Siberia Livery",
                     "texture": [
-                        "https://i.ibb.co/whHzjLb/Air-Siberia-737-Livery-min.png"
+                        "https://i.ibb.co/YDj45kv/737-700-Livery.png"
                     ],
-                    "credits": "QFA124"
-                },
-                {
-                    "name": "Air Siberia Special AEA 737-700 Livery" ,
-                    "texture": [
-                        "https://i.ibb.co/JsKN7Ch/delelte.png"
-                    ],
-                    "credits": "QFA124"
+                    "credits": "Calculus"
                 }
             ],
             "labels": [
