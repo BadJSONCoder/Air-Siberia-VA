@@ -18,6 +18,21 @@
             "labels": [
                 "Texture"
             ]
+        },
+
+        "22": {
+            "name": "Airbus A350 Cargo Air Siberia Livery",
+            "liveries": [
+                {
+                "texture": [
+                "https://i.ibb.co/KyBs868/Air-Siberia-Cargo-Livery.png"
+                 ],
+                 "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
