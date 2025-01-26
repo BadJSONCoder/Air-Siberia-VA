@@ -24,9 +24,9 @@
             "name": "Airbus A350",
             "liveries": [
                 {
-                "name": "Airbus A350 Cargo Air Siberia Livery",
+                "name": "Airbus A350 Air Siberia Passenger Livery",
                 "texture": [
-                "https://i.ibb.co/mJ3L2w8/Air-Siberia-Cargo-Livery.png"
+                "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
                  ],
                  "credits": "Calculus"
                 }
