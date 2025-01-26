@@ -1,5 +1,19 @@
 {
     "name": "Air Siberia",
     "color": "#0000FF",
-    "bgcolor": "#F0FFFF"
+    "bgcolor": "#F0FFFF",
+
+    "aircrafts": {
+        "4": {
+            "name": "Boeing 737-700",
+            "liveries": [
+                {
+                    "name": "Air Siberia 737-700 Livery" ,
+                    "texture": [
+                        "https://i.ibb.co/H2LHccH/Air-Siberia-737-Livery.png"
+                    ]
+                }
+            ]
+        }
+    }
 }
