@@ -37,12 +37,14 @@
                     "name": "Air Siberia Link Embraer Phenom 100 Livery",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/normal.jpg",
                         "https://i.ibb.co/9ZBc5wF/Air-Siberia-Phenom-100-Livery.png"
                     ]
                 }
             ],
             "labels": [
                 "Specular Shader",
+                "Normal Map",
                 "Texture"
             ]
         },
@@ -58,7 +60,7 @@
                 }
             ],
             "labels": [
-                "Texture"
+                "Specular Shader"
             ]
         },
 
