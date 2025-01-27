@@ -30,6 +30,38 @@
             ]
         },
 
+        "5": {
+            "name": "Embraer Phenom 100",
+            "liveries": [
+                {
+                    "name": "Air Siberia Link Embraer Phenom 100 Livery",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://i.ibb.co/9ZBc5wF/Air-Siberia-Phenom-100-Livery.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
+
+        "13": {
+            "name": "de Havilland Canada DHC-2 Beaver",
+            "liveries": [
+                {
+                    "name": "DHC-2 Beaver Air Siberia Livery",
+                    "texure": [
+                        "https://i.ibb.co/QnRsYzm/Air-Siberia-DHC-2-Livery.jpg"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+
         "24": {
             "name": "Airbus A350",
             "liveries": [
@@ -40,19 +72,53 @@
                     "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
                  ],
                  "credits": "Calculus"
-                },
-                {
-                "name": "Airbus A350 Air Siberia Cargo Livery",
-                "texture": [
-                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                    "https://i.ibb.co/KyBs868/Air-Siberia-Cargo-Livery.png"
-                 ],
-                 "credits": "Calculus"
                 }
             ],
             "labels": [
                 "Specular Shader",
                 "Texture"
+            ]
+        },
+
+        "2418": {
+            "name": "ATR 72-600 (HOP!)",
+            "liveries": [
+                {
+                    "name": "ATR-72 Air Siberia Livery",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://i.ibb.co/JRbdY6q/Air-Siberia-ATR72-livery.png"
+                    ],
+                    "credits": "Calculus"
+                },
+                {
+                    "name": "ATR-72 Air Siberia Christmas Livery",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://i.ibb.co/prZ9Cb5/Air-Siberia-ATR72-Christmas-Livery.png"
+                    ],
+                    "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
+        
+        "3341": {
+            "name": "Embraer ERJ-170",
+            "liveries": [
+                {
+                    "name": "Embraer E170 Air Siberia Livery",
+                    "texture": [
+                        "https://i.ibb.co/2y03Lsk/Air-Siberia-Link-E170-Livery.png"
+                    ],
+                    "credits": "Calculus"
+                }
+            ],
+            "labels":[
+                "Fuselage Texture"
             ]
         }
     }
