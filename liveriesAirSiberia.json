@@ -86,7 +86,6 @@
                 {
                     "name": "ATR-72 Air Siberia Livery",
                     "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
                         "https://i.ibb.co/JRbdY6q/Air-Siberia-ATR72-livery.png"
                     ],
                     "credits": "Calculus"
@@ -94,14 +93,12 @@
                 {
                     "name": "ATR-72 Air Siberia Christmas Livery",
                     "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
                         "https://i.ibb.co/prZ9Cb5/Air-Siberia-ATR72-Christmas-Livery.png"
                     ],
                     "credits": "Calculus"
                 }
             ],
             "labels": [
-                "Specular Shader",
                 "Texture"
             ]
         },
