@@ -40,6 +40,14 @@
                     "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
                  ],
                  "credits": "Calculus"
+                },
+                {
+                "name": "Airbus A350 Air Siberia Cargo Livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/KyBs868/Air-Siberia-Cargo-Livery.png"
+                 ],
+                 "credits": "Calculus"
                 }
             ],
             "labels": [
