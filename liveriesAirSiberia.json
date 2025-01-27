@@ -13,7 +13,7 @@
                         "https://geo-fs.com/models/aircraft/premium/737_700/specular.jpg",    
                         "https://i.ibb.co/H2LHccH/Air-Siberia-737-Livery.png"
                     ],
-                    "credits": "Calculus"
+                    "credits": "QFA124"
                 },
                 {
                     "name": "Boeing 737-700 Air Siberia Special AEA Livery",
@@ -21,7 +21,7 @@
                         "https://geo-fs.com/models/aircraft/premium/737_700/specular.jpg",    
                         "https://i.ibb.co/JsKN7Ch/delelte.png"
                     ],
-                    "credits": "Calculus"
+                    "credits": "QFA124"
                 }
             ],
             "labels": [
@@ -39,7 +39,8 @@
                         "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
                         "https://www.geo-fs.com/models/aircraft/premium/phenom_100/normal.jpg",
                         "https://i.ibb.co/9ZBc5wF/Air-Siberia-Phenom-100-Livery.png"
-                    ]
+                    ],
+                    "credits": "QFA124"
                 }
             ],
             "labels": [
@@ -56,7 +57,8 @@
                     "name": "DHC-2 Beaver Air Siberia Livery",
                     "texure": [
                         "https://i.ibb.co/QnRsYzm/Air-Siberia-DHC-2-Livery.jpg"
-                    ]
+                    ],
+                    "credits": "QFA124"
                 }
             ],
             "labels": [
@@ -73,7 +75,7 @@
                     "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
                     "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
                  ],
-                 "credits": "Calculus"
+                 "credits": "QFA124"
                 }
             ],
             "labels": [
@@ -90,14 +92,14 @@
                     "texture": [
                         "https://i.ibb.co/JRbdY6q/Air-Siberia-ATR72-livery.png"
                     ],
-                    "credits": "Calculus"
+                    "credits": "frederikvl"
                 },
                 {
                     "name": "ATR-72 Air Siberia Christmas Livery",
                     "texture": [
                         "https://i.ibb.co/prZ9Cb5/Air-Siberia-ATR72-Christmas-Livery.png"
                     ],
-                    "credits": "Calculus"
+                    "credits": "frederikvl and QFA124"
                 }
             ],
             "labels": [
@@ -113,7 +115,7 @@
                     "texture": [
                         "https://i.ibb.co/2y03Lsk/Air-Siberia-Link-E170-Livery.png"
                     ],
-                    "credits": "Calculus"
+                    "credits": "QFA124"
                 }
             ],
             "labels":[
