@@ -36,7 +36,8 @@
                 {
                 "name": "Airbus A350 Air Siberia Passenger Livery",
                 "texture": [
-                "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/dbPrYhp/Air-Siberia-A350-Passenger-Livery.png"
                  ],
                  "credits": "Calculus"
                 }
