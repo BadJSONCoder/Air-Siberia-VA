@@ -54,8 +54,8 @@
             "name": "de Havilland Canada DHC-2 Beaver",
             "liveries": [
                 {
-                    "name": "DHC-2 Beaver Air Siberia Livery",
-                    "texure": [
+                    "name": "Air Siberia DHC-2 Livery",
+                    "texture": [
                         "https://i.ibb.co/QnRsYzm/Air-Siberia-DHC-2-Livery.jpg"
                     ],
                     "credits": "QFA124"
@@ -100,6 +100,22 @@
                         "https://i.ibb.co/prZ9Cb5/Air-Siberia-ATR72-Christmas-Livery.png"
                     ],
                     "credits": "frederikvl and QFA124"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+
+        "2973": {
+            "name": "Airbus A350-1000 XWB",
+            "liveries": [
+                {
+                    "name": "A350-1000 XWB Air Siberia Livery",
+                    "texture": [
+                        "https://i.ibb.co/KyBs868/Air-Siberia-Cargo-Livery.png"
+                    ],
+                    "credits": "QFA124"
                 }
             ],
             "labels": [
