@@ -50,6 +50,24 @@
             ]
         },
 
+         "10": {
+            "name": "Airbus A380",
+            "liveries": [
+                {
+                    "name": "Air Siberia 100 Members livery",
+                    "texture": [
+                        "https://ibb.co/qLZ1p0FG",
+                        "https://ibb.co/j93jWc9B"
+                    ],
+                    "credits": "QFA124"
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
+
         "13": {
             "name": "de Havilland Canada DHC-2 Beaver",
             "liveries": [
